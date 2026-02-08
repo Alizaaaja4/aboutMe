@@ -50,7 +50,7 @@ document.addEventListener('DOMContentLoaded', function() {
     // ===========================
     const filterButtons = document.querySelectorAll('.filter-btn');
     const publicationItems = document.querySelectorAll('.publication-item');
-    const itemsPerPage = 10;
+    const itemsPerPage = 6;
     let currentPage = 1;
     let currentFilter = 'all';
 
